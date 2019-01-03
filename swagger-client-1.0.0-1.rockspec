@@ -14,7 +14,7 @@ This is a RESTFul API for Pizza Shack online pizza delivery store. ]],
 }
 
 dependencies = {
-	"lua >= 5.2",
+	"lua >= 5.1",
 	"http",
 	"dkjson",
 	"basexx"
